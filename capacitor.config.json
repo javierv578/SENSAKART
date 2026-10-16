@@ -1,0 +1,13 @@
+{
+  "appId": "com.sensastreaming.sensakart",
+  "appName": "SENSAKART",
+  "webDir": "www",
+  "backgroundColor": "#0b0d17",
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#0b0d17",
+    "allowsLinkPreview": false,
+    "scrollEnabled": false,
+    "preferredContentMode": "mobile"
+  }
+}
